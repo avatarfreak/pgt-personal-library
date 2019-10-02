@@ -74,9 +74,11 @@
     └── index.html
 ```
 
-### Project Demo:
-
-- [FCC-Personal-Library](https://avatarfreak-fcc-personal-library-1.glitch.me)
+### Local Dev
+- clone the repo
+- cd `pgt-personal-library`
+- npm install
+- node start
 
 ### Author:
 
